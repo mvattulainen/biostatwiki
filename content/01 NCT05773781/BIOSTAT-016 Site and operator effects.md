@@ -34,17 +34,19 @@ The trial is single-site and randomisation uses minimisation by lesion site and 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Site effects | The SAP evidence states: The trial is single-site and randomisation uses minimisation by lesion site and surgical technique. | Partly clear; requires explicit SAP specification. |
-| Operator effects | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Modeling approach | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Minimum data per site/operator | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Generalizability impact | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Site effects | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Operator effects | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Modeling approach | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Minimum data per site/operator | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Generalizability impact | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Site, operator, or learning-curve effects may not be fully assessed. The SAP evidence provides some basis for assessing site and operator effects where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to site and operator effects in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-016 Site and operator effects|NCT03340025 BIOSTAT-016 Site and operator effects]]

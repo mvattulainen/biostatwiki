@@ -34,17 +34,19 @@ The null hypothesis is no difference and the alternative is a non-zero differenc
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Testing framework | The SAP evidence states: The null hypothesis is no difference and the alternative is a non-zero difference; no non-inferiority or equivalence margin is specified. | Partly clear; requires explicit SAP specification. |
-| Margin or threshold | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Clinical justification | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Statistical decision rule | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Applicability to endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Testing framework | The SAP states a two-sided null of no difference and alternative of non-zero difference in time in range. | Mostly clear from complete SAP review. |
+| Margin or threshold | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Partly clear, but not fully reviewer-ready. |
+| Clinical justification | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Partly clear, but not fully reviewer-ready. |
+| Statistical decision rule | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Partly clear, but not fully reviewer-ready. |
+| Applicability to endpoint | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Testing framework or margin justification is incomplete. The SAP evidence provides some basis for assessing superiority, non-inferiority, equivalence, or performance goal where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for DAN06 found evidence relevant to superiority, non-inferiority, equivalence, or performance goal in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal|NCT05773781 BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal]]

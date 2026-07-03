@@ -34,17 +34,19 @@ The study seeks superior results but plans only 20 participants despite 44 per g
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Testing framework | The SAP evidence states: The study seeks superior results but plans only 20 participants despite 44 per group being needed for 80% power. | Partly clear; requires explicit SAP specification. |
-| Margin or threshold | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Clinical justification | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Statistical decision rule | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Applicability to endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Testing framework | The protocol compares NPWT with traditional dressing but frames the study as a pilot, not as a definitive superiority/non-inferiority/equivalence test. | Partly clear, but not fully reviewer-ready. |
+| Margin or threshold | statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Major gap from complete SAP review. |
+| Clinical justification | statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Major gap from complete SAP review. |
+| Statistical decision rule | statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Major gap from complete SAP review. |
+| Applicability to endpoint | statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Major gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Testing framework or margin justification is incomplete. The SAP evidence provides some basis for assessing superiority, non-inferiority, equivalence, or performance goal where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to superiority, non-inferiority, equivalence, or performance goal in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal|NCT05773781 BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal]]

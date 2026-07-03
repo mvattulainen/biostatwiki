@@ -34,17 +34,19 @@ The design is randomized crossover with both interventions, not single-arm perfo
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| External data source | The SAP evidence states: The design is randomized crossover with both interventions, not single-arm performance goal. | Not applicable to this SAP unless the design context changes. |
-| Population comparability | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Endpoint comparability | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Threshold derivation | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Sensitivity to assumptions | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| External data source | The study is randomized with an internal concurrent comparator; no single-arm performance goal is used. | Not applicable to this SAP design. |
+| Population comparability | The study is randomized with an internal concurrent comparator; no single-arm performance goal is used. | Not applicable to this SAP design. |
+| Endpoint comparability | The study is randomized with an internal concurrent comparator; no single-arm performance goal is used. | Not applicable to this SAP design. |
+| Threshold derivation | The study is randomized with an internal concurrent comparator; no single-arm performance goal is used. | Not applicable to this SAP design. |
+| Sensitivity to assumptions | The study is randomized with an internal concurrent comparator; no single-arm performance goal is used. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-This question appears not applicable to this SAP based on the current evidence. The attribute table records the key elements that would need to be present if the design or claim later made performance goal justification relevant.
+Complete SAP review indicates that this question is not applicable because the study uses a randomized concurrent comparator rather than a single-arm performance-goal design. No performance-goal threshold or external benchmark is needed for the primary comparison, although external literature may still support background rationale.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-005 Performance goal justification|NCT05773781 BIOSTAT-005 Performance goal justification]]

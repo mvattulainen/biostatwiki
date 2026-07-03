@@ -34,17 +34,19 @@ A small TSC is planned and no IDMC is proposed; no adaptive or Bayesian design i
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Adaptive feature | The SAP evidence states: A small TSC is planned and no IDMC is proposed; no adaptive or Bayesian design is specified. | Major gap in current evidence. |
-| Decision rules | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Operating characteristics | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Prior or external-data relevance | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Information control | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Adaptive feature | no adaptive, Bayesian, borrowing, interim, or stopping design is specified | Not applicable to this SAP design. |
+| Decision rules | no adaptive, Bayesian, borrowing, interim, or stopping design is specified | Not applicable to this SAP design. |
+| Operating characteristics | no adaptive, Bayesian, borrowing, interim, or stopping design is specified | Not applicable to this SAP design. |
+| Prior or external-data relevance | no adaptive, Bayesian, borrowing, interim, or stopping design is specified | Not applicable to this SAP design. |
+| Information control | no adaptive, Bayesian, borrowing, interim, or stopping design is specified | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Adaptive/interim decision rules are absent or informal. The SAP evidence provides some basis for assessing adaptive, bayesian, or borrowing designs where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found no adaptive, Bayesian, historical-borrowing, or external-control design for PuraBond PROOF. Operational safety oversight or DSMB review, where described, does not amount to an adaptive statistical design because no prospective adaptation rule, prior-borrowing rule, or operating-characteristics framework is specified.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-019 Adaptive, Bayesian, or borrowing designs|NCT03340025 BIOSTAT-019 Adaptive, Bayesian, or borrowing designs]]

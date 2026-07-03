@@ -34,18 +34,20 @@ The protocol tests whether intraoperative PuraBond reduces acute pain at 30 days
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Treatment condition | The SAP evidence states: The protocol tests whether intraoperative PuraBond reduces acute pain at 30 days and plans ANCOVA for post-operative pain adjusted for pre-surgical pain. | Partly clear; requires explicit SAP specification. |
-| Population | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Variable/endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Intercurrent events | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Population-level summary | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing data / analysis set | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Treatment condition | PuraBond application to the surgical field versus no PuraBond application, randomized 1:1 with minimisation by lesion site and surgical technique | Mostly clear from complete SAP review. |
+| Population | adults aged 18 or over undergoing planned elective transoral tumour/lesion excision for oral or oropharyngeal mucosal pathology, with explicit inclusion/exclusion criteria | Mostly clear from complete SAP review. |
+| Variable/endpoint | pain following procedure measured by VAS preoperatively and on postoperative days 1, 2, 4, 7, 14, and 30; objective states acute pain at 30 days post-randomisation | Mostly clear from complete SAP review. |
+| Intercurrent events | lost-to-follow-up contact attempts are described; full withdrawal and partial withdrawal are distinguished; explicit ICH E9(R1)-style intercurrent-event strategies are not specified. | Partly clear, but not fully reviewer-ready. |
+| Population-level summary | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Mostly clear from complete SAP review. |
+| Missing data / analysis set | missing data assumed rare due to short follow-up and analyzed on a complete-case basis all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Estimand attributes are not fully explicit. The SAP evidence provides some basis for assessing clinical claim vs statistical estimand where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that the clinical contrast is recoverable: single-site, parallel-group randomized trial of intraoperative PuraBond application versus no PuraBond in adults undergoing transoral resection of oral/oropharyngeal mucosal lesions. Treatment condition, population, endpoint concept, and broad summary measure are present, but the estimand is not presented as an explicit ICH E9(R1)-style construct tying endpoint timing, intercurrent events, missing data, and analysis population together in one reviewer-ready statement.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-001 Clinical claim vs statistical estimand|NCT03340025 BIOSTAT-001 Clinical claim vs statistical estimand]]

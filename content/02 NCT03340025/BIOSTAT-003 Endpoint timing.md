@@ -34,17 +34,19 @@ Endpoint assessments are scheduled at postoperative day 5, day 14, and day 30.
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Primary time point | The SAP evidence states: Endpoint assessments are scheduled at postoperative day 5, day 14, and day 30. | Mostly clear from current evidence. |
-| Clinical timing rationale | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Windowing rules | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Repeated time points | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Missing or delayed visits | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Primary time point | baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Mostly clear from complete SAP review. |
+| Clinical timing rationale | baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Partly clear, but not fully reviewer-ready. |
+| Windowing rules | baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Mostly clear from complete SAP review. |
+| Repeated time points | baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Mostly clear from complete SAP review. |
+| Missing or delayed visits | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing endpoint timing where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to endpoint timing in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-003 Endpoint timing|NCT05773781 BIOSTAT-003 Endpoint timing]]

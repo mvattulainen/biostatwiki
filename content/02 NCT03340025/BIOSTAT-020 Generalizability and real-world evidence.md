@@ -34,17 +34,19 @@ Single-center adult free-flap donor-site patients are enrolled; generalizability
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Target population | The SAP evidence states: Single-center adult free-flap donor-site patients are enrolled; generalizability is limited by pilot size and setting. | Partly clear; requires explicit SAP specification. |
-| Sites and users | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Follow-up and care context | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Representativeness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Real-world data quality | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Target population | 20 adult head and neck surgery patients requiring split-thickness skin graft coverage of a free-flap donor site | Mostly clear from complete SAP review. |
+| Sites and users | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Partly clear, but not fully reviewer-ready. |
+| Follow-up and care context | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Partly clear, but not fully reviewer-ready. |
+| Representativeness | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Partly clear, but not fully reviewer-ready. |
+| Real-world data quality | The SAP/protocol does not use real-world data as an external evidence source for the primary analysis. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Generalizability is only partially justified. The SAP evidence provides some basis for assessing generalizability and real-world evidence where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows the target population and setting for NPWT donor-site pilot: 20 adult head and neck surgery patients requiring split-thickness skin graft coverage of a free-flap donor site. Generalizability is partly assessable from population, site/operator, and follow-up descriptions, but the SAP/protocol does not fully translate those design constraints into limits on the intended-use claim.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-020 Generalizability and real-world evidence|NCT05773781 BIOSTAT-020 Generalizability and real-world evidence]]

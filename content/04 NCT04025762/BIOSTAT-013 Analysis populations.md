@@ -34,17 +34,19 @@ ITT, per-protocol, safety, and endpoint-specific inclusion thresholds are define
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Analysis-set definitions | The SAP evidence states: ITT, per-protocol, safety, and endpoint-specific inclusion thresholds are defined. | Mostly clear from current evidence. |
-| Claim-to-set alignment | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | No major gap identified from current evidence. |
-| Post-randomization exclusions | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Safety denominators | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Sensitivity across sets | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Analysis-set definitions | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Mostly clear from complete SAP review. |
+| Claim-to-set alignment | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Mostly clear from complete SAP review. |
+| Post-randomization exclusions | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Mostly clear from complete SAP review. |
+| Safety denominators | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Mostly clear from complete SAP review. |
+| Sensitivity across sets | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing analysis populations where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found the following analysis-population information for DAN06: primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants. The gap quality depends on whether these sets are explicitly linked to each claim; named or operational sets alone are weaker than a claim-by-claim analysis-population map.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-013 Analysis populations|NCT05773781 BIOSTAT-013 Analysis populations]]

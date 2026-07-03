@@ -34,17 +34,19 @@ The comparator is standard monofocal non-Toric IOLs; both devices and characteri
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Comparator type | The SAP evidence states: The comparator is standard monofocal non-Toric IOLs; both devices and characteristics are described. | Partly clear; requires explicit SAP specification. |
-| Comparator relevance | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Bias protection | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Treatment contrast | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| External-control comparability | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Comparator type | Monofocal Toric IOLs versus standard monofocal non-Toric IOLs; simple randomization 1:1 using random.org or Excel, with the PI holding the list for surgery and assessors masked | Mostly clear from complete SAP review. |
+| Comparator relevance | randomized controlled trial comparing bilateral Toric monofocal intraocular lenses with non-Toric monofocal lenses in cataract patients with astigmatism | Mostly clear from complete SAP review. |
+| Bias protection | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden Monofocal Toric IOLs versus standard monofocal non-Toric IOLs; simple randomization 1:1 using random.org or Excel, with the PI holding the list for surgery and assessors masked | Partly clear, but not fully reviewer-ready. |
+| Treatment contrast | randomized controlled trial comparing bilateral Toric monofocal intraocular lenses with non-Toric monofocal lenses in cataract patients with astigmatism | Mostly clear from complete SAP review. |
+| External-control comparability | No external or historical control is used; comparator is concurrent/internal. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Comparator rationale may need more direct justification. The SAP evidence provides some basis for assessing comparator selection where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to comparator selection in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-006 Comparator selection|NCT05773781 BIOSTAT-006 Comparator selection]]

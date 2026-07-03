@@ -34,17 +34,19 @@ Withdrawal criteria are described, but deviation-based exclusions are not visibl
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Deviation taxonomy | The SAP evidence states: Withdrawal criteria are described, but deviation-based exclusions are not visible in the indexed excerpt. | Major gap in current evidence. |
-| Exclusion rules | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Bias risk | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Blinded review | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Deviation taxonomy | urgent safety measures and serious breaches/deviations are described, but analysis exclusion rules for protocol deviations are not defined | Partly clear, but not fully reviewer-ready. |
+| Exclusion rules | urgent safety measures and serious breaches/deviations are described, but analysis exclusion rules for protocol deviations are not defined | Partly clear, but not fully reviewer-ready. |
+| Bias risk | urgent safety measures and serious breaches/deviations are described, but analysis exclusion rules for protocol deviations are not defined | Partly clear, but not fully reviewer-ready. |
+| Blinded review | urgent safety measures and serious breaches/deviations are described, but analysis exclusion rules for protocol deviations are not defined | Partly clear, but not fully reviewer-ready. |
+| Sensitivity analyses | urgent safety measures and serious breaches/deviations are described, but analysis exclusion rules for protocol deviations are not defined | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Deviation classification and exclusion rules are incomplete. The SAP evidence provides some basis for assessing protocol deviations where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to protocol deviations in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-014 Protocol deviations|NCT05773781 BIOSTAT-014 Protocol deviations]]

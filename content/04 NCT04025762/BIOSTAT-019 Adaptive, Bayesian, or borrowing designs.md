@@ -34,17 +34,19 @@ No formal interim analyses or stopping guidelines are planned; DSMB reviews data
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Adaptive feature | The SAP evidence states: No formal interim analyses or stopping guidelines are planned; DSMB reviews data every six months. | Mostly clear from current evidence. |
-| Decision rules | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Operating characteristics | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Prior or external-data relevance | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Information control | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Adaptive feature | no formal interim analyses or stopping guidelines are planned; DSMB reviews status, recruitment, dropouts, demographics, and reportable adverse events every six months | Partly clear, but not fully reviewer-ready. |
+| Decision rules | no formal interim analyses or stopping guidelines are planned; DSMB reviews status, recruitment, dropouts, demographics, and reportable adverse events every six months | Partly clear, but not fully reviewer-ready. |
+| Operating characteristics | no formal interim analyses or stopping guidelines are planned; DSMB reviews status, recruitment, dropouts, demographics, and reportable adverse events every six months | Partly clear, but not fully reviewer-ready. |
+| Prior or external-data relevance | no formal interim analyses or stopping guidelines are planned; DSMB reviews status, recruitment, dropouts, demographics, and reportable adverse events every six months | Partly clear, but not fully reviewer-ready. |
+| Information control | no formal interim analyses or stopping guidelines are planned; DSMB reviews status, recruitment, dropouts, demographics, and reportable adverse events every six months | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing adaptive, bayesian, or borrowing designs where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found no adaptive, Bayesian, historical-borrowing, or external-control design for DAN06. Operational safety oversight or DSMB review, where described, does not amount to an adaptive statistical design because no prospective adaptation rule, prior-borrowing rule, or operating-characteristics framework is specified.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-019 Adaptive, Bayesian, or borrowing designs|NCT05773781 BIOSTAT-019 Adaptive, Bayesian, or borrowing designs]]

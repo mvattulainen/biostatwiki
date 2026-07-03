@@ -34,17 +34,19 @@ The hypothesis is reduction of acute pain and analysis reports differences in me
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Testing framework | The SAP evidence states: The hypothesis is reduction of acute pain and analysis reports differences in means with 95% confidence intervals; no non-inferiority or performance margin is specified. | Partly clear; requires explicit SAP specification. |
-| Margin or threshold | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Clinical justification | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Statistical decision rule | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Applicability to endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Testing framework | The objective uses a superiority-style claim that PuraBond significantly reduces pain; alpha is p<0.05. | Mostly clear from complete SAP review. |
+| Margin or threshold | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Clinical justification | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Statistical decision rule | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Applicability to endpoint | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Testing framework or margin justification is incomplete. The SAP evidence provides some basis for assessing superiority, non-inferiority, equivalence, or performance goal where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to superiority, non-inferiority, equivalence, or performance goal in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal|NCT03340025 BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal]]

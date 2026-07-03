@@ -34,17 +34,19 @@ Study visits include baseline, 3-6 months after first-eye surgery, and 3-6 month
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Primary time point | The SAP evidence states: Study visits include baseline, 3-6 months after first-eye surgery, and 3-6 months after second-eye surgery. | Mostly clear from current evidence. |
-| Clinical timing rationale | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Windowing rules | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Repeated time points | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Missing or delayed visits | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Primary time point | three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery | Mostly clear from complete SAP review. |
+| Clinical timing rationale | three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery | Partly clear, but not fully reviewer-ready. |
+| Windowing rules | three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery | Mostly clear from complete SAP review. |
+| Repeated time points | three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery | Mostly clear from complete SAP review. |
+| Missing or delayed visits | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing endpoint timing where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to endpoint timing in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-003 Endpoint timing|NCT05773781 BIOSTAT-003 Endpoint timing]]

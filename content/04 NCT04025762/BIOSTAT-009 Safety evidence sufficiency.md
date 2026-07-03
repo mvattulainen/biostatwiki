@@ -34,17 +34,19 @@ Safety outcomes include severe hypoglycemia, DKA, AEs, SAEs, incidence rates, an
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Safety population | The SAP evidence states: Safety outcomes include severe hypoglycemia, DKA, AEs, SAEs, incidence rates, and repeated-measures models if enough events occur. | Partly clear; requires explicit SAP specification. |
-| Follow-up duration | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Adverse-event capture | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Rare-event precision | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Benefit-risk linkage | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Safety population | primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Partly clear, but not fully reviewer-ready. |
+| Follow-up duration | 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days dropouts and reasons are tracked; adherence/retention analyses account for enrolled subjects, dropouts before/after randomization, and eligibility for primary analysis | Partly clear, but not fully reviewer-ready. |
+| Adverse-event capture | safety analyses tabulate SH, DKA, adverse events, serious adverse events, person-years, and repeated-measures Poisson/logistic comparisons if enough events occur | Mostly clear from complete SAP review. |
+| Rare-event precision | safety analyses tabulate SH, DKA, adverse events, serious adverse events, person-years, and repeated-measures Poisson/logistic comparisons if enough events occur | Partly clear, but not fully reviewer-ready. |
+| Benefit-risk linkage | safety analyses tabulate SH, DKA, adverse events, serious adverse events, person-years, and repeated-measures Poisson/logistic comparisons if enough events occur | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety characterization is not fully powered or precision-justified. The SAP evidence provides some basis for assessing safety evidence sufficiency where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for DAN06 found evidence relevant to safety evidence sufficiency in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-009 Safety evidence sufficiency|NCT05773781 BIOSTAT-009 Safety evidence sufficiency]]

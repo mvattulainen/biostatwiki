@@ -34,17 +34,19 @@ Withdrawal and loss-to-follow-up processes are described, with prior data retain
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Intercurrent-event types | The SAP evidence states: Withdrawal and loss-to-follow-up processes are described, with prior data retained and possible continued follow-up for selected components. | Partly clear; requires explicit SAP specification. |
-| Estimand strategy | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Endpoint impact | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Analysis implementation | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Sensitivity or supportive analyses | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Intercurrent-event types | lost-to-follow-up contact attempts are described; full withdrawal and partial withdrawal are distinguished Safety events and discontinuation/withdrawal procedures are described where relevant. | Partly clear, but not fully reviewer-ready. |
+| Estimand strategy | The complete SAP/protocol describes operational withdrawal, dropout, safety, or adherence handling, but does not provide an explicit estimand strategy for intercurrent events. | Partly clear, but not fully reviewer-ready. |
+| Endpoint impact | The complete SAP/protocol describes operational withdrawal, dropout, safety, or adherence handling, but does not provide an explicit estimand strategy for intercurrent events. | Partly clear, but not fully reviewer-ready. |
+| Analysis implementation | The complete SAP/protocol describes operational withdrawal, dropout, safety, or adherence handling, but does not provide an explicit estimand strategy for intercurrent events. | Partly clear, but not fully reviewer-ready. |
+| Sensitivity or supportive analyses | The complete SAP/protocol describes operational withdrawal, dropout, safety, or adherence handling, but does not provide an explicit estimand strategy for intercurrent events. | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Intercurrent-event strategy is not expressed as an estimand attribute. The SAP evidence provides some basis for assessing intercurrent events where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to intercurrent events in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-012 Intercurrent events|NCT03340025 BIOSTAT-012 Intercurrent events]]

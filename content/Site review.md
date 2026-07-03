@@ -2,7 +2,7 @@
 
 ## Summary
 
-The wiki was updated against the current `biostatskill/SKILL.md` structure. BIOSTAT-001 through BIOSTAT-020 pages now use `Attribute assessment` tables and `Gap statement` paragraphs instead of the old `Gap` and `Challenging the gap` fields. `Question attributes.md` was created and `Questions.md` now links each question to the matching attribute section.
+Attribute assessment and gap statement sections were refreshed across BIOSTAT-001 through BIOSTAT-020 pages using complete SAP/protocol text from the local GNO `saps` collection. The sections now explicitly state that the table is based on complete SAP review and no longer rely on the short SAP evidence excerpt as the basis for judgment.
 
 ## Content not matching the skill definition
 
@@ -10,7 +10,7 @@ No structural findings from the current pass.
 
 ## Gaps and missing evidence
 
-Several attribute assessments are based on the current extracted SAP evidence already present in the generated pages. A full evidence-refresh pass using GNO could improve the specificity of individual attribute rows, especially where the current page has only a short SAP evidence excerpt.
+The updated attribute rows identify several recurring complete-SAP gaps: incomplete estimand specification, limited missing-data sensitivity analysis, weak or absent multiplicity control in some SAPs, incomplete analysis-population mapping, and limited safety precision justification.
 
 ## Weak claims
 
@@ -26,5 +26,6 @@ No new contradictions detected in this pass.
 
 ## Recommended fixes
 
-- On a later content-quality pass, rerun GNO retrieval for the weakest attribute rows and replace generic excerpt-based evidence with more precise SAP passages.
+- Where a page remains weak, add direct complete-SAP citations to the exact section supporting each attribute row.
+- On a later evidence-quality pass, align the short SAP evidence excerpts with the fuller attribute assessment where the complete-SAP review found stronger or different evidence.
 - Keep `Fair use.md` and `skill-example.md` human-maintained as required by the skill.

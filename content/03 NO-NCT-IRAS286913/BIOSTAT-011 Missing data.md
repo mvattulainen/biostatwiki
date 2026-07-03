@@ -34,17 +34,19 @@ Lost-to-follow-up and withdrawal are described, but missing-data analysis and se
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Missing-data sources | The SAP evidence states: Lost-to-follow-up and withdrawal are described, but missing-data analysis and sensitivity methods are not visible in the excerpt. | Partly clear; requires explicit SAP specification. |
-| Primary handling method | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Missingness assumption | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Safety missingness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Missing-data sources | participants can withdraw at any time; missed visits are followed by contact attempts and nonresponse leads to withdrawal and discarded related data | Partly clear, but not fully reviewer-ready. |
+| Primary handling method | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded | Potential gap from complete SAP review. |
+| Missingness assumption | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded | Potential gap from complete SAP review. |
+| Sensitivity analyses | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded | Major gap from complete SAP review. |
+| Safety missingness | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded | Potential gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Missing-data assumptions and sensitivity analyses are incomplete. The SAP evidence provides some basis for assessing missing data where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found operational missing-data handling for Toric IOL protocol: missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded. The gap quality is driven by the limited explanation of missingness assumptions and robustness testing; information may be present operationally, but it is not a complete sensitivity-analysis strategy for informative missingness.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-011 Missing data|NCT05773781 BIOSTAT-011 Missing data]]

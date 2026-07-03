@@ -34,17 +34,19 @@ FWER is controlled using fixed-sequence testing for key endpoints; FDR-adjusted 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Multiplicity sources | The SAP evidence states: FWER is controlled using fixed-sequence testing for key endpoints; FDR-adjusted p-values are planned for other secondary endpoints. | Mostly clear from current evidence. |
-| Error-control method | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Endpoint hierarchy | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Interim or repeated looks | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Exploratory separation | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Multiplicity sources | fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 for primary and key secondary endpoints; FDR-adjusted p-values are planned within other secondary endpoint categories | Mostly clear from complete SAP review. |
+| Error-control method | fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 for primary and key secondary endpoints; FDR-adjusted p-values are planned within other secondary endpoint categories | Mostly clear from complete SAP review. |
+| Endpoint hierarchy | fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 for primary and key secondary endpoints; FDR-adjusted p-values are planned within other secondary endpoint categories | Mostly clear from complete SAP review. |
+| Interim or repeated looks | fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 for primary and key secondary endpoints; FDR-adjusted p-values are planned within other secondary endpoint categories | Mostly clear from complete SAP review. |
+| Exploratory separation | fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 for primary and key secondary endpoints; FDR-adjusted p-values are planned within other secondary endpoint categories | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing multiplicity where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows a reviewer-ready multiplicity strategy for the primary and key secondary endpoint family: fixed-sequence gatekeeping controls FWER at two-sided alpha 0.05 and FDR adjustment is planned for other secondary categories. Remaining interpretation should still separate confirmatory endpoints from exploratory or descriptive analyses.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-010 Multiplicity|NCT05773781 BIOSTAT-010 Multiplicity]]

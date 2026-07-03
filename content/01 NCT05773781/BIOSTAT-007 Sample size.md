@@ -34,17 +34,19 @@ The sample size calculation uses 80% power, alpha 0.05, SD 2.0, a 1.2-point VAS 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Effectiveness sample size | The SAP evidence states: The sample size calculation uses 80% power, alpha 0.05, SD 2.0, a 1.2-point VAS difference, correlation adjustment, and 5% attrition to reach 64 patients. | Mostly clear from current evidence. |
-| Safety precision | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Attrition allowance | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Key precision requirement | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Feasibility vs evidence | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Effectiveness sample size | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation | Mostly clear from complete SAP review. |
+| Safety precision | secondary outcomes include analgesia, complications, bleeding, readmission, return to operating room, diet; AE/SAE definitions and reporting are specified; risk assessment says both arms are standard care | Partly clear, but not fully reviewer-ready. |
+| Attrition allowance | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation | Mostly clear from complete SAP review. |
+| Key precision requirement | ANCOVA for postoperative pain score with pre-surgical pain score as adjusting covariate; difference in means with two-sided 95% confidence intervals and p<0.05 | Partly clear, but not fully reviewer-ready. |
+| Feasibility vs evidence | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing sample size where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found a sample-size rationale for PuraBond PROOF: 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation. The effectiveness rationale is the clearest component; safety precision and robustness of key assumptions are less explicit unless separately quantified in the protocol/SAP.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-007 Sample size|NCT03340025 BIOSTAT-007 Sample size]]

@@ -34,17 +34,19 @@ The study is single-center; no site or operator effect modeling is relevant beyo
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Site effects | The SAP evidence states: The study is single-center; no site or operator effect modeling is relevant beyond local conduct. | Not applicable to this SAP unless the design context changes. |
-| Operator effects | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Modeling approach | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Minimum data per site/operator | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Generalizability impact | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| Site effects | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
+| Operator effects | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
+| Modeling approach | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
+| Minimum data per site/operator | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
+| Generalizability impact | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-This question appears not applicable to this SAP based on the current evidence. The attribute table records the key elements that would need to be present if the design or claim later made site and operator effects relevant.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to site and operator effects in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-016 Site and operator effects|NCT05773781 BIOSTAT-016 Site and operator effects]]

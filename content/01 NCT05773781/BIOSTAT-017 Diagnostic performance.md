@@ -34,17 +34,19 @@ The study evaluates therapeutic/surgical outcomes, not diagnostic sensitivity or
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Accuracy measures | The SAP evidence states: The study evaluates therapeutic/surgical outcomes, not diagnostic sensitivity or specificity. | Not applicable to this SAP unless the design context changes. |
-| Reference standard | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Indeterminate/invalid results | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Paired-data structure | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
-| Precision and thresholds | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| Accuracy measures | not a diagnostic-device study | Not applicable to this SAP design. |
+| Reference standard | not a diagnostic-device study | Not applicable to this SAP design. |
+| Indeterminate/invalid results | not a diagnostic-device study | Not applicable to this SAP design. |
+| Paired-data structure | not a diagnostic-device study | Not applicable to this SAP design. |
+| Precision and thresholds | not a diagnostic-device study | Not applicable to this SAP design. |
 
 ### Gap statement
 
-This question appears not applicable to this SAP based on the current evidence. The attribute table records the key elements that would need to be present if the design or claim later made diagnostic performance relevant.
+Complete SAP review indicates that this is not a diagnostic-accuracy study. The SAP/protocol may include objective measurements, but it does not make sensitivity, specificity, PPV, NPV, ROC/AUC, or reference-standard diagnostic claims.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-017 Diagnostic performance|NCT03340025 BIOSTAT-017 Diagnostic performance]]

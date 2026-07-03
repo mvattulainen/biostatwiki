@@ -34,17 +34,19 @@ Multiple secondary outcomes are listed, but no endpoint hierarchy or multiplicit
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Multiplicity sources | The SAP evidence states: Multiple secondary outcomes are listed, but no endpoint hierarchy or multiplicity adjustment is specified. | Major gap in current evidence. |
-| Error-control method | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Endpoint hierarchy | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interim or repeated looks | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Exploratory separation | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Multiplicity sources | no multiplicity procedure is specified despite multiple secondary outcomes and repeated VAS assessments | Major gap from complete SAP review. |
+| Error-control method | no multiplicity procedure is specified despite multiple secondary outcomes and repeated VAS assessments | Major gap from complete SAP review. |
+| Endpoint hierarchy | no multiplicity procedure is specified despite multiple secondary outcomes and repeated VAS assessments | Major gap from complete SAP review. |
+| Interim or repeated looks | no multiplicity procedure is specified despite multiple secondary outcomes and repeated VAS assessments | Major gap from complete SAP review. |
+| Exploratory separation | no multiplicity procedure is specified despite multiple secondary outcomes and repeated VAS assessments | Major gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Multiplicity control is incomplete or should be checked against endpoint hierarchy. The SAP evidence provides some basis for assessing multiplicity where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that PuraBond PROOF has multiple outcomes or repeated assessments, but no complete confirmatory multiplicity framework equivalent to a prespecified hierarchy or familywise-error strategy. The gap is not absence of endpoints; it is that the planned claims are not fully protected against multiplicity if interpreted confirmatorily.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-010 Multiplicity|NCT03340025 BIOSTAT-010 Multiplicity]]

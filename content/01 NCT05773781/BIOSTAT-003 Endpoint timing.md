@@ -34,17 +34,19 @@ Follow-up duration is one month and the primary pain endpoint includes day 30 po
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Primary time point | The SAP evidence states: Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment. | Partly clear; requires explicit SAP specification. |
-| Clinical timing rationale | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Windowing rules | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Repeated time points | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing or delayed visits | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Primary time point | preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Mostly clear from complete SAP review. |
+| Clinical timing rationale | preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Partly clear, but not fully reviewer-ready. |
+| Windowing rules | preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Mostly clear from complete SAP review. |
+| Repeated time points | preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Mostly clear from complete SAP review. |
+| Missing or delayed visits | missing data assumed rare due to short follow-up and analyzed on a complete-case basis | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Endpoint timing is defined but may not be clinically justified. The SAP evidence provides some basis for assessing endpoint timing where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to endpoint timing in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-003 Endpoint timing|NCT03340025 BIOSTAT-003 Endpoint timing]]

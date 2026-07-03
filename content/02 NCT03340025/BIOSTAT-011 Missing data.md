@@ -34,17 +34,19 @@ Data quality control describes missing data/anomaly clarification, but no primar
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Missing-data sources | The SAP evidence states: Data quality control describes missing data/anomaly clarification, but no primary missing-data method or sensitivity analysis is specified. | Major gap in current evidence. |
-| Primary handling method | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Missingness assumption | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Safety missingness | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Missing-data sources | lost-to-follow-up is defined as failing two scheduled visits and being unreachable after contact attempts; such participants are considered withdrawn | Partly clear, but not fully reviewer-ready. |
+| Primary handling method | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Potential gap from complete SAP review. |
+| Missingness assumption | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Potential gap from complete SAP review. |
+| Sensitivity analyses | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Major gap from complete SAP review. |
+| Safety missingness | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Potential gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Missing-data assumptions and sensitivity analyses are incomplete. The SAP evidence provides some basis for assessing missing data where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found operational missing-data handling for NPWT donor-site pilot: participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified. The gap quality is driven by the limited explanation of missingness assumptions and robustness testing; information may be present operationally, but it is not a complete sensitivity-analysis strategy for informative missingness.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-011 Missing data|NCT05773781 BIOSTAT-011 Missing data]]

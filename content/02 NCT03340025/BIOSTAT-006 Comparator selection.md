@@ -34,17 +34,19 @@ The control group is xeroform gauze, a traditional surgical dressing.
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Comparator type | The SAP evidence states: The control group is xeroform gauze, a traditional surgical dressing. | Mostly clear from current evidence. |
-| Comparator relevance | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | No major gap identified from current evidence. |
-| Bias protection | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Treatment contrast | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| External-control comparability | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Comparator type | PICO single-use NPWT versus traditional xeroform gauze and padding, randomized 1:1 using the next free number in the randomization schedule | Mostly clear from complete SAP review. |
+| Comparator relevance | single-center randomized parallel trial comparing PICO single-use negative pressure wound therapy with xeroform gauze dressing for free-flap donor sites | Mostly clear from complete SAP review. |
+| Bias protection | single clinical study site; wound photographs are assessed by two independent raters; site quality management and monitoring are described PICO single-use NPWT versus traditional xeroform gauze and padding, randomized 1:1 using the next free number in the randomization schedule | Partly clear, but not fully reviewer-ready. |
+| Treatment contrast | single-center randomized parallel trial comparing PICO single-use negative pressure wound therapy with xeroform gauze dressing for free-flap donor sites | Mostly clear from complete SAP review. |
+| External-control comparability | No external or historical control is used; comparator is concurrent/internal. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing comparator selection where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to comparator selection in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-006 Comparator selection|NCT05773781 BIOSTAT-006 Comparator selection]]

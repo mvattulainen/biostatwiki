@@ -34,17 +34,19 @@ The study is single-site at a tertiary UK centre; both arms are described as sta
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Target population | The SAP evidence states: The study is single-site at a tertiary UK centre; both arms are described as standard care at the site. | Partly clear; requires explicit SAP specification. |
-| Sites and users | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Follow-up and care context | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Representativeness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Real-world data quality | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Target population | adults aged 18 or over undergoing planned elective transoral tumour/lesion excision for oral or oropharyngeal mucosal pathology, with explicit inclusion/exclusion criteria | Mostly clear from complete SAP review. |
+| Sites and users | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Partly clear, but not fully reviewer-ready. |
+| Follow-up and care context | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Partly clear, but not fully reviewer-ready. |
+| Representativeness | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Partly clear, but not fully reviewer-ready. |
+| Real-world data quality | The SAP/protocol does not use real-world data as an external evidence source for the primary analysis. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Generalizability is only partially justified. The SAP evidence provides some basis for assessing generalizability and real-world evidence where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows the target population and setting for PuraBond PROOF: adults aged 18 or over undergoing planned elective transoral tumour/lesion excision for oral or oropharyngeal mucosal pathology, with explicit inclusion/exclusion criteria. Generalizability is partly assessable from population, site/operator, and follow-up descriptions, but the SAP/protocol does not fully translate those design constraints into limits on the intended-use claim.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-020 Generalizability and real-world evidence|NCT03340025 BIOSTAT-020 Generalizability and real-world evidence]]

@@ -34,17 +34,19 @@ Risks, benefits, AEs, SAEs, severity, relatedness, and reporting windows are des
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Safety population | The SAP evidence states: Risks, benefits, AEs, SAEs, severity, relatedness, and reporting windows are described. | Partly clear; requires explicit SAP specification. |
-| Follow-up duration | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Adverse-event capture | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Rare-event precision | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Benefit-risk linkage | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Safety population | AE/SAE definitions, severity, relatedness, expectedness, assessment windows, and reporting are detailed; PICO and xeroform risks/benefits are described | Partly clear, but not fully reviewer-ready. |
+| Follow-up duration | baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) lost-to-follow-up is defined as failing two scheduled visits and being unreachable after contact attempts; such participants are considered withdrawn | Partly clear, but not fully reviewer-ready. |
+| Adverse-event capture | AE/SAE definitions, severity, relatedness, expectedness, assessment windows, and reporting are detailed; PICO and xeroform risks/benefits are described | Mostly clear from complete SAP review. |
+| Rare-event precision | 44 patients per group would be needed for 80% power assuming 80% graft take, but the protocol plans only 20 total as a pilot study Safety precision rationale is not separately quantified. | Partly clear, but not fully reviewer-ready. |
+| Benefit-risk linkage | 44 patients per group would be needed for 80% power assuming 80% graft take, but the protocol plans only 20 total as a pilot study Safety precision rationale is not separately quantified. | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety characterization is not fully powered or precision-justified. The SAP evidence provides some basis for assessing safety evidence sufficiency where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to safety evidence sufficiency in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-009 Safety evidence sufficiency|NCT05773781 BIOSTAT-009 Safety evidence sufficiency]]

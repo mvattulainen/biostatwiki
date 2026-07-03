@@ -34,17 +34,19 @@ Device regulatory status and marketed use are described; indexed excerpt does no
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Safety population | The SAP evidence states: Device regulatory status and marketed use are described; indexed excerpt does not show a safety precision rationale. | Partly clear; requires explicit SAP specification. |
-| Follow-up duration | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Adverse-event capture | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Rare-event precision | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Benefit-risk linkage | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Safety population | device and adverse-event definitions, SAE/SADE/USADE reporting, follow-up until resolution/death, and device deficiencies are described | Partly clear, but not fully reviewer-ready. |
+| Follow-up duration | three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery participants can withdraw at any time; missed visits are followed by contact attempts and nonresponse leads to withdrawal and discarded related data | Partly clear, but not fully reviewer-ready. |
+| Adverse-event capture | device and adverse-event definitions, SAE/SADE/USADE reporting, follow-up until resolution/death, and device deficiencies are described | Mostly clear from complete SAP review. |
+| Rare-event precision | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Safety precision rationale is not separately quantified. | Partly clear, but not fully reviewer-ready. |
+| Benefit-risk linkage | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Safety precision rationale is not separately quantified. | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety characterization is not fully powered or precision-justified. The SAP evidence provides some basis for assessing safety evidence sufficiency where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to safety evidence sufficiency in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-009 Safety evidence sufficiency|NCT05773781 BIOSTAT-009 Safety evidence sufficiency]]

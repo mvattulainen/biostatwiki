@@ -34,17 +34,19 @@ The primary outcome is pain measured using VAS, recorded preoperatively and on d
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Endpoint concept | The SAP evidence states: The primary outcome is pain measured using VAS, recorded preoperatively and on days 1, 2, 4, 7, 14, and 30. | Mostly clear from current evidence. |
-| Operational definition | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | No major gap identified from current evidence. |
-| Clinical meaningfulness | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Measurement objectivity | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Alignment with claim | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Endpoint concept | pain following procedure measured by VAS preoperatively and on postoperative days 1, 2, 4, 7, 14, and 30; objective states acute pain at 30 days post-randomisation | Mostly clear from complete SAP review. |
+| Operational definition | pain following procedure measured by VAS preoperatively and on postoperative days 1, 2, 4, 7, 14, and 30; objective states acute pain at 30 days post-randomisation preoperative baseline and postoperative days 1, 2, 4, 7, 14, and 30, with one-month follow-up | Mostly clear from complete SAP review. |
+| Clinical meaningfulness | single-site, parallel-group randomized trial of intraoperative PuraBond application versus no PuraBond in adults undergoing transoral resection of oral/oropharyngeal mucosal lesions | Partly clear, but not fully reviewer-ready. |
+| Measurement objectivity | VAS is validated and recorded repeatedly; no blinding of subjective pain assessment is specified. | Mostly clear from complete SAP review. |
+| Alignment with claim | single-site, parallel-group randomized trial of intraoperative PuraBond application versus no PuraBond in adults undergoing transoral resection of oral/oropharyngeal mucosal lesions Primary endpoint: pain following procedure measured by VAS preoperatively and on postoperative days 1, 2, 4, 7, 14, and 30; objective states acute pain at 30 days post-randomisation | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing primary endpoint definition where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to primary endpoint definition in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-002 Primary endpoint definition|NCT03340025 BIOSTAT-002 Primary endpoint definition]]

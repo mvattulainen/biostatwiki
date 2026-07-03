@@ -34,18 +34,20 @@ The protocol assesses efficacy of single-use NPWT against traditional dressing, 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Treatment condition | The SAP evidence states: The protocol assesses efficacy of single-use NPWT against traditional dressing, but presents the trial as a pilot underpowered for the primary endpoint. | Partly clear; requires explicit SAP specification. |
-| Population | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Variable/endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Intercurrent events | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Population-level summary | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing data / analysis set | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Treatment condition | PICO single-use NPWT versus traditional xeroform gauze and padding, randomized 1:1 using the next free number in the randomization schedule | Mostly clear from complete SAP review. |
+| Population | 20 adult head and neck surgery patients requiring split-thickness skin graft coverage of a free-flap donor site | Mostly clear from complete SAP review. |
+| Variable/endpoint | progression of wound healing using wound photographs at POD 5, POD 14-21, and POD 30; percentage skin graft take at Day 30 evaluated by blinded independent raters | Mostly clear from complete SAP review. |
+| Intercurrent events | lost-to-follow-up is defined as failing two scheduled visits and being unreachable after contact attempts; such participants are considered withdrawn; explicit ICH E9(R1)-style intercurrent-event strategies are not specified. | Partly clear, but not fully reviewer-ready. |
+| Population-level summary | The statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis. | Partly clear, but not fully reviewer-ready. |
+| Missing data / analysis set | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified screen failures are described; subjects randomized but not treated may be replaced; no ITT, modified ITT, per-protocol, safety, or evaluable analysis set is explicitly defined | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Estimand attributes are not fully explicit. The SAP evidence provides some basis for assessing clinical claim vs statistical estimand where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that the clinical contrast is recoverable: single-center randomized parallel trial comparing PICO single-use negative pressure wound therapy with xeroform gauze dressing for free-flap donor sites. Treatment condition, population, endpoint concept, and broad summary measure are present, but the estimand is not presented as an explicit ICH E9(R1)-style construct tying endpoint timing, intercurrent events, missing data, and analysis population together in one reviewer-ready statement.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-001 Clinical claim vs statistical estimand|NCT05773781 BIOSTAT-001 Clinical claim vs statistical estimand]]

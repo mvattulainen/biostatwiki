@@ -34,17 +34,19 @@ CGM readings are pooled between treatment initiation and up to 112 days or end o
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Primary time point | The SAP evidence states: CGM readings are pooled between treatment initiation and up to 112 days or end of treatment visit. | Partly clear; requires explicit SAP specification. |
-| Clinical timing rationale | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Windowing rules | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Repeated time points | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing or delayed visits | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Primary time point | 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Mostly clear from complete SAP review. |
+| Clinical timing rationale | 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Partly clear, but not fully reviewer-ready. |
+| Windowing rules | 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Mostly clear from complete SAP review. |
+| Repeated time points | 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Mostly clear from complete SAP review. |
+| Missing or delayed visits | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Endpoint timing is defined but may not be clinically justified. The SAP evidence provides some basis for assessing endpoint timing where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for DAN06 found evidence relevant to endpoint timing in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-003 Endpoint timing|NCT05773781 BIOSTAT-003 Endpoint timing]]

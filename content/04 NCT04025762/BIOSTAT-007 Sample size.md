@@ -34,17 +34,19 @@ The sample size assumes 36 randomized subjects, 80% power, 10% treatment effect,
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Effectiveness sample size | The SAP evidence states: The sample size assumes 36 randomized subjects, 80% power, 10% treatment effect, and 18% SD. | Partly clear; requires explicit SAP specification. |
-| Safety precision | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Attrition allowance | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Key precision requirement | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Feasibility vs evidence | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Effectiveness sample size | 36 subjects, 80% power, treatment effect of 10 percentage points in time in range, and SD 18% for an individual measurement | Mostly clear from complete SAP review. |
+| Safety precision | safety analyses tabulate SH, DKA, adverse events, serious adverse events, person-years, and repeated-measures Poisson/logistic comparisons if enough events occur | Partly clear, but not fully reviewer-ready. |
+| Attrition allowance | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Partly clear, but not fully reviewer-ready. |
+| Key precision requirement | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Partly clear, but not fully reviewer-ready. |
+| Feasibility vs evidence | 36 subjects, 80% power, treatment effect of 10 percentage points in time in range, and SD 18% for an individual measurement | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety precision or assumption basis may be incomplete. The SAP evidence provides some basis for assessing sample size where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found a sample-size rationale for DAN06: 36 subjects, 80% power, treatment effect of 10 percentage points in time in range, and SD 18% for an individual measurement. The effectiveness rationale is the clearest component; safety precision and robustness of key assumptions are less explicit unless separately quantified in the protocol/SAP.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-007 Sample size|NCT05773781 BIOSTAT-007 Sample size]]

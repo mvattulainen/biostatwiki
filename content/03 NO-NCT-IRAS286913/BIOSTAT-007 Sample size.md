@@ -34,17 +34,19 @@ The planned sample size is 140 participants, but the indexed excerpt does not sh
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Effectiveness sample size | The SAP evidence states: The planned sample size is 140 participants, but the indexed excerpt does not show the calculation basis. | Partly clear; requires explicit SAP specification. |
-| Safety precision | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Attrition allowance | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Key precision requirement | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Feasibility vs evidence | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Effectiveness sample size | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation | Mostly clear from complete SAP review. |
+| Safety precision | device and adverse-event definitions, SAE/SADE/USADE reporting, follow-up until resolution/death, and device deficiencies are described | Partly clear, but not fully reviewer-ready. |
+| Attrition allowance | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation | Mostly clear from complete SAP review. |
+| Key precision requirement | mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Feasibility vs evidence | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety precision or assumption basis may be incomplete. The SAP evidence provides some basis for assessing sample size where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found a sample-size rationale for Toric IOL protocol: 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation. The effectiveness rationale is the clearest component; safety precision and robustness of key assumptions are less explicit unless separately quantified in the protocol/SAP.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-007 Sample size|NCT05773781 BIOSTAT-007 Sample size]]

@@ -34,17 +34,19 @@ The protocol states 44 patients per group would be needed for 80% power, but onl
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Effectiveness sample size | The SAP evidence states: The protocol states 44 patients per group would be needed for 80% power, but only 20 total participants are planned. | Contradiction or tension in current evidence. |
-| Safety precision | Not explicitly identified in current SAP evidence excerpt. | Contradiction or tension in current evidence. |
-| Attrition allowance | Not explicitly identified in current SAP evidence excerpt. | Contradiction or tension in current evidence. |
-| Key precision requirement | Not explicitly identified in current SAP evidence excerpt. | Contradiction or tension in current evidence. |
-| Feasibility vs evidence | Not explicitly identified in current SAP evidence excerpt. | Contradiction or tension in current evidence. |
+| Effectiveness sample size | 44 patients per group would be needed for 80% power assuming 80% graft take, but the protocol plans only 20 total as a pilot study | Partly clear, but not fully reviewer-ready. |
+| Safety precision | AE/SAE definitions, severity, relatedness, expectedness, assessment windows, and reporting are detailed; PICO and xeroform risks/benefits are described | Partly clear, but not fully reviewer-ready. |
+| Attrition allowance | participants who miss designated follow-up appointments will be dropped from the dataset; lost-to-follow-up contact procedures are specified, but no missing-data model or sensitivity analysis is specified | Partly clear, but not fully reviewer-ready. |
+| Key precision requirement | statistical section states the primary endpoint and sample-size rationale but does not define a model, effect measure, hypothesis test, confidence interval, or analysis population for the primary analysis | Partly clear, but not fully reviewer-ready. |
+| Feasibility vs evidence | 44 patients per group would be needed for 80% power assuming 80% graft take, but the protocol plans only 20 total as a pilot study | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Safety precision or assumption basis may be incomplete. The SAP evidence provides some basis for assessing sample size where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found a sample-size rationale for NPWT donor-site pilot: 44 patients per group would be needed for 80% power assuming 80% graft take, but the protocol plans only 20 total as a pilot study. The effectiveness rationale is the clearest component; safety precision and robustness of key assumptions are less explicit unless separately quantified in the protocol/SAP.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-007 Sample size|NCT05773781 BIOSTAT-007 Sample size]]

@@ -34,17 +34,19 @@ The comparator is no PuraBond application; the protocol states both treatment ar
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Comparator type | The SAP evidence states: The comparator is no PuraBond application; the protocol states both treatment arms are considered standard of care and already used. | Partly clear; requires explicit SAP specification. |
-| Comparator relevance | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Bias protection | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Treatment contrast | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| External-control comparability | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Comparator type | PuraBond application to the surgical field versus no PuraBond application, randomized 1:1 with minimisation by lesion site and surgical technique | Mostly clear from complete SAP review. |
+| Comparator relevance | single-site, parallel-group randomized trial of intraoperative PuraBond application versus no PuraBond in adults undergoing transoral resection of oral/oropharyngeal mucosal lesions | Mostly clear from complete SAP review. |
+| Bias protection | single UK tertiary head and neck centre; surgeon credentialing through prior PuraBond experience; no independent DMC proposed PuraBond application to the surgical field versus no PuraBond application, randomized 1:1 with minimisation by lesion site and surgical technique | Partly clear, but not fully reviewer-ready. |
+| Treatment contrast | single-site, parallel-group randomized trial of intraoperative PuraBond application versus no PuraBond in adults undergoing transoral resection of oral/oropharyngeal mucosal lesions | Mostly clear from complete SAP review. |
+| External-control comparability | No external or historical control is used; comparator is concurrent/internal. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Comparator rationale may need more direct justification. The SAP evidence provides some basis for assessing comparator selection where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to comparator selection in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-006 Comparator selection|NCT03340025 BIOSTAT-006 Comparator selection]]

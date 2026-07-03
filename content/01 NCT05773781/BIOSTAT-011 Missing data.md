@@ -34,17 +34,19 @@ Missing data are assumed rare due to methodology and short follow-up, with compl
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Missing-data sources | The SAP evidence states: Missing data are assumed rare due to methodology and short follow-up, with complete-case analysis planned. | Partly clear; requires explicit SAP specification. |
-| Primary handling method | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Missingness assumption | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Safety missingness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Missing-data sources | lost-to-follow-up contact attempts are described; full withdrawal and partial withdrawal are distinguished | Partly clear, but not fully reviewer-ready. |
+| Primary handling method | missing data assumed rare due to short follow-up and analyzed on a complete-case basis | Partly clear, but not fully reviewer-ready. |
+| Missingness assumption | missing data assumed rare due to short follow-up and analyzed on a complete-case basis | Partly clear, but not fully reviewer-ready. |
+| Sensitivity analyses | missing data assumed rare due to short follow-up and analyzed on a complete-case basis | Partly clear, but not fully reviewer-ready. |
+| Safety missingness | missing data assumed rare due to short follow-up and analyzed on a complete-case basis | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Missing-data assumptions and sensitivity analyses are incomplete. The SAP evidence provides some basis for assessing missing data where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found operational missing-data handling for PuraBond PROOF: missing data assumed rare due to short follow-up and analyzed on a complete-case basis. The gap quality is driven by the limited explanation of missingness assumptions and robustness testing; information may be present operationally, but it is not a complete sensitivity-analysis strategy for informative missingness.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-011 Missing data|NCT03340025 BIOSTAT-011 Missing data]]

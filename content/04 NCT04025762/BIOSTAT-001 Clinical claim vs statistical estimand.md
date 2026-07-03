@@ -34,18 +34,20 @@ The SAP compares closed-loop insulin delivery with sensor augmented pump therapy
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Treatment condition | The SAP evidence states: The SAP compares closed-loop insulin delivery with sensor augmented pump therapy and uses time in target glucose range as the primary endpoint. | Partly clear; requires explicit SAP specification. |
-| Population | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Variable/endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Intercurrent events | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Population-level summary | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing data / analysis set | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Treatment condition | all participants receive both closed-loop insulin delivery and sensor-augmented pump therapy in randomized order, separated by a four-week washout period | Mostly clear from complete SAP review. |
+| Population | older adults with type 1 diabetes aged over 60 years who complete run-in competency/compliance requirements; approximately 36 randomized subjects | Mostly clear from complete SAP review. |
+| Variable/endpoint | time spent in target glucose range 3.9 to 10.0 mmol/L over each 16-week treatment period, calculated from pooled CGM readings | Mostly clear from complete SAP review. |
+| Intercurrent events | dropouts and reasons are tracked; adherence/retention analyses account for enrolled subjects, dropouts before/after randomization, and eligibility for primary analysis; explicit ICH E9(R1)-style intercurrent-event strategies are not specified. | Partly clear, but not fully reviewer-ready. |
+| Population-level summary | Linear mixed model adjusting for period as fixed effect and site as random effect, accounting for within-subject correlation and reporting two-sided p-values and 95% confidence intervals. | Mostly clear from complete SAP review. |
+| Missing data / analysis set | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data primary and secondary analyses are intention-to-treat by randomized treatment day; per-protocol primary analysis requires at least 60% CGM readings/control and 60% closed-loop use; safety includes all enrolled participants | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Estimand attributes are not fully explicit. The SAP evidence provides some basis for assessing clinical claim vs statistical estimand where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that the clinical contrast is recoverable: open-label, multicentre, randomized, two-period crossover study comparing 16-week closed-loop insulin delivery with sensor-augmented pump therapy in older adults with type 1 diabetes. Treatment condition, population, endpoint concept, and broad summary measure are present, but the estimand is not presented as an explicit ICH E9(R1)-style construct tying endpoint timing, intercurrent events, missing data, and analysis population together in one reviewer-ready statement.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-001 Clinical claim vs statistical estimand|NCT05773781 BIOSTAT-001 Clinical claim vs statistical estimand]]

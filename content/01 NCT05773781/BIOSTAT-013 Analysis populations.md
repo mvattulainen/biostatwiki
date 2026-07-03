@@ -34,17 +34,19 @@ All analysis will be on an intention-to-treat basis, retaining patients irrespec
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Analysis-set definitions | The SAP evidence states: All analysis will be on an intention-to-treat basis, retaining patients irrespective of protocol violations. | Mostly clear from current evidence. |
-| Claim-to-set alignment | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | No major gap identified from current evidence. |
-| Post-randomization exclusions | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Safety denominators | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Sensitivity across sets | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Analysis-set definitions | all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
+| Claim-to-set alignment | all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
+| Post-randomization exclusions | all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
+| Safety denominators | all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
+| Sensitivity across sets | all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing analysis populations where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found the following analysis-population information for PuraBond PROOF: all analysis on an intention-to-treat basis retaining patients irrespective of protocol violations; data collected prior to withdrawal may be retained; no replacement anticipated for withdrawal. The gap quality depends on whether these sets are explicitly linked to each claim; named or operational sets alone are weaker than a claim-by-claim analysis-population map.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-013 Analysis populations|NCT03340025 BIOSTAT-013 Analysis populations]]

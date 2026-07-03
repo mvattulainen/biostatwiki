@@ -34,17 +34,19 @@ The primary endpoint is wound-healing progression using photographs and day-30 s
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Endpoint concept | The SAP evidence states: The primary endpoint is wound-healing progression using photographs and day-30 skin graft take assessed by blinded independent raters. | Partly clear; requires explicit SAP specification. |
-| Operational definition | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Clinical meaningfulness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Measurement objectivity | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Alignment with claim | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Endpoint concept | progression of wound healing using wound photographs at POD 5, POD 14-21, and POD 30; percentage skin graft take at Day 30 evaluated by blinded independent raters | Mostly clear from complete SAP review. |
+| Operational definition | progression of wound healing using wound photographs at POD 5, POD 14-21, and POD 30; percentage skin graft take at Day 30 evaluated by blinded independent raters baseline/day of surgery, POD 5, POD 14-21, and POD 30 (+7) | Partly clear, but not fully reviewer-ready. |
+| Clinical meaningfulness | single-center randomized parallel trial comparing PICO single-use negative pressure wound therapy with xeroform gauze dressing for free-flap donor sites | Partly clear, but not fully reviewer-ready. |
+| Measurement objectivity | Wound photographs are de-identified and assessed by blinded independent raters. | Mostly clear from complete SAP review. |
+| Alignment with claim | single-center randomized parallel trial comparing PICO single-use negative pressure wound therapy with xeroform gauze dressing for free-flap donor sites Primary endpoint: progression of wound healing using wound photographs at POD 5, POD 14-21, and POD 30; percentage skin graft take at Day 30 evaluated by blinded independent raters | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Endpoint clinical justification or measurement validity may need more support. The SAP evidence provides some basis for assessing primary endpoint definition where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to primary endpoint definition in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-002 Primary endpoint definition|NCT05773781 BIOSTAT-002 Primary endpoint definition]]

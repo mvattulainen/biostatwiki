@@ -34,18 +34,20 @@ The trial compares Toric versus non-Toric IOL implantation in cataract patients 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Treatment condition | The SAP evidence states: The trial compares Toric versus non-Toric IOL implantation in cataract patients with astigmatism and assesses dynamic balance and visual outcomes. | Partly clear; requires explicit SAP specification. |
-| Population | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Variable/endpoint | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Intercurrent events | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Population-level summary | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Missing data / analysis set | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Treatment condition | Monofocal Toric IOLs versus standard monofocal non-Toric IOLs; simple randomization 1:1 using random.org or Excel, with the PI holding the list for surgery and assessors masked | Mostly clear from complete SAP review. |
+| Population | ambulatory adults aged 50 years or above with bilateral cataract and astigmatism greater than 1.0D awaiting intraocular lens replacement surgery | Mostly clear from complete SAP review. |
+| Variable/endpoint | dynamic stability during functional activities measured by centre-of-mass and head movement using motion sensors during obstacle crossing, turning, stair walking, and TUG-related assessments | Mostly clear from complete SAP review. |
+| Intercurrent events | participants can withdraw at any time; missed visits are followed by contact attempts and nonresponse leads to withdrawal and discarded related data; explicit ICH E9(R1)-style intercurrent-event strategies are not specified. | Partly clear, but not fully reviewer-ready. |
+| Population-level summary | Mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses. | Mostly clear from complete SAP review. |
+| Missing data / analysis set | missed visits trigger two more contact attempts within two months and then a notification letter; if no reply within four weeks, participants are withdrawn and related data discarded participant population is defined, but analysis populations such as ITT, per-protocol, safety, or evaluable sets are not explicitly defined | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Estimand attributes are not fully explicit. The SAP evidence provides some basis for assessing clinical claim vs statistical estimand where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that the clinical contrast is recoverable: randomized controlled trial comparing bilateral Toric monofocal intraocular lenses with non-Toric monofocal lenses in cataract patients with astigmatism. Treatment condition, population, endpoint concept, and broad summary measure are present, but the estimand is not presented as an explicit ICH E9(R1)-style construct tying endpoint timing, intercurrent events, missing data, and analysis population together in one reviewer-ready statement.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-001 Clinical claim vs statistical estimand|NCT05773781 BIOSTAT-001 Clinical claim vs statistical estimand]]

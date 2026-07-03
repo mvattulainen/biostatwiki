@@ -34,17 +34,19 @@ The study is multicenter, free-living, and enrolls older adults with type 1 diab
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Target population | The SAP evidence states: The study is multicenter, free-living, and enrolls older adults with type 1 diabetes; generalizability is not fully justified. | Partly clear; requires explicit SAP specification. |
-| Sites and users | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Follow-up and care context | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Representativeness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Real-world data quality | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Target population | older adults with type 1 diabetes aged over 60 years who complete run-in competency/compliance requirements; approximately 36 randomized subjects | Mostly clear from complete SAP review. |
+| Sites and users | multicentre study; primary model includes site as a random effect and DSMB reviews recruitment by site 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Partly clear, but not fully reviewer-ready. |
+| Follow-up and care context | multicentre study; primary model includes site as a random effect and DSMB reviews recruitment by site 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Partly clear, but not fully reviewer-ready. |
+| Representativeness | multicentre study; primary model includes site as a random effect and DSMB reviews recruitment by site 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Partly clear, but not fully reviewer-ready. |
+| Real-world data quality | The SAP/protocol does not use real-world data as an external evidence source for the primary analysis. | Not applicable to this SAP design. |
 
 ### Gap statement
 
-The main gap quality judgment is: Generalizability is only partially justified. The SAP evidence provides some basis for assessing generalizability and real-world evidence where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows the target population and setting for DAN06: older adults with type 1 diabetes aged over 60 years who complete run-in competency/compliance requirements; approximately 36 randomized subjects. Generalizability is partly assessable from population, site/operator, and follow-up descriptions, but the SAP/protocol does not fully translate those design constraints into limits on the intended-use claim.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-020 Generalizability and real-world evidence|NCT05773781 BIOSTAT-020 Generalizability and real-world evidence]]

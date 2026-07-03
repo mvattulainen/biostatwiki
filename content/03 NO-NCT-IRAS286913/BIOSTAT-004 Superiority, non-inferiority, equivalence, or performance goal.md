@@ -34,17 +34,19 @@ The protocol describes randomized allocation to Toric and non-Toric IOLs, but th
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Testing framework | The SAP evidence states: The protocol describes randomized allocation to Toric and non-Toric IOLs, but the indexed excerpt does not show superiority, non-inferiority, or margin language. | Major gap in current evidence. |
-| Margin or threshold | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Clinical justification | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Statistical decision rule | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Applicability to endpoint | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Testing framework | The protocol compares Toric versus non-Toric IOLs using mixed ANOVA at p=0.05. | Mostly clear from complete SAP review. |
+| Margin or threshold | mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Clinical justification | mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Statistical decision rule | mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Applicability to endpoint | mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Testing framework or margin justification is incomplete. The SAP evidence provides some basis for assessing superiority, non-inferiority, equivalence, or performance goal where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to superiority, non-inferiority, equivalence, or performance goal in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal|NCT05773781 BIOSTAT-004 Superiority, non-inferiority, equivalence, or performance goal]]

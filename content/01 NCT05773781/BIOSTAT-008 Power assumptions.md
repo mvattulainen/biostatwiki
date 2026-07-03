@@ -34,17 +34,19 @@ The power assumptions include SD, target difference, correlation adjustment, and
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Event or success rates | The SAP evidence states: The power assumptions include SD, target difference, correlation adjustment, and attrition inflation, with references for pain-score assumptions. | Partly clear; requires explicit SAP specification. |
-| Variability assumptions | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Effect size | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Dropout or missingness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Assumption sensitivity | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Event or success rates | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Variability assumptions | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Effect size | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Dropout or missingness | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Assumption sensitivity | 64 participants, 32 per arm, from SD 2.0, target difference 1.2 VAS points, 80% power, alpha 0.05, correlation adjustment 0.3, and 5% attrition inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Power assumptions may lack cited evidence or sensitivity ranges. The SAP evidence provides some basis for assessing power assumptions where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to power assumptions in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-008 Power assumptions|NCT03340025 BIOSTAT-008 Power assumptions]]

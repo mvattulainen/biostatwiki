@@ -34,17 +34,19 @@ Multiple primary and secondary outcome measures are listed, but no multiplicity 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Multiplicity sources | The SAP evidence states: Multiple primary and secondary outcome measures are listed, but no multiplicity strategy is visible in the indexed excerpt. | Major gap in current evidence. |
-| Error-control method | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Endpoint hierarchy | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interim or repeated looks | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Exploratory separation | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Multiplicity sources | mixed ANOVA with post-hoc Bonferroni tests is planned, but no full familywise hierarchy across multiple endpoints, time points, and subgroup analyses is specified | Partly clear, but not fully reviewer-ready. |
+| Error-control method | mixed ANOVA with post-hoc Bonferroni tests is planned, but no full familywise hierarchy across multiple endpoints, time points, and subgroup analyses is specified | Partly clear, but not fully reviewer-ready. |
+| Endpoint hierarchy | mixed ANOVA with post-hoc Bonferroni tests is planned, but no full familywise hierarchy across multiple endpoints, time points, and subgroup analyses is specified | Partly clear, but not fully reviewer-ready. |
+| Interim or repeated looks | mixed ANOVA with post-hoc Bonferroni tests is planned, but no full familywise hierarchy across multiple endpoints, time points, and subgroup analyses is specified | Partly clear, but not fully reviewer-ready. |
+| Exploratory separation | mixed ANOVA with post-hoc Bonferroni tests is planned, but no full familywise hierarchy across multiple endpoints, time points, and subgroup analyses is specified | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Multiplicity control is incomplete or should be checked against endpoint hierarchy. The SAP evidence provides some basis for assessing multiplicity where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review shows that Toric IOL protocol has multiple outcomes or repeated assessments, but no complete confirmatory multiplicity framework equivalent to a prespecified hierarchy or familywise-error strategy. The gap is not absence of endpoints; it is that the planned claims are not fully protected against multiplicity if interpreted confirmatorily.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-010 Multiplicity|NCT05773781 BIOSTAT-010 Multiplicity]]

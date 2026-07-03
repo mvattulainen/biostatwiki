@@ -34,17 +34,19 @@ Primary outcomes are dynamic balance in functional activities and accelerometer-
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Endpoint concept | The SAP evidence states: Primary outcomes are dynamic balance in functional activities and accelerometer-derived centre-of-mass/head movement. | Partly clear; requires explicit SAP specification. |
-| Operational definition | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | Partly clear; requires explicit SAP specification. |
-| Clinical meaningfulness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Measurement objectivity | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Alignment with claim | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Endpoint concept | dynamic stability during functional activities measured by centre-of-mass and head movement using motion sensors during obstacle crossing, turning, stair walking, and TUG-related assessments | Mostly clear from complete SAP review. |
+| Operational definition | dynamic stability during functional activities measured by centre-of-mass and head movement using motion sensors during obstacle crossing, turning, stair walking, and TUG-related assessments three time points: pre-operation, 3-6 months after first eye surgery, and 3-6 months after second eye surgery; primary analysis compares before surgery and 6 months after second eye surgery | Mostly clear from complete SAP review. |
+| Clinical meaningfulness | randomized controlled trial comparing bilateral Toric monofocal intraocular lenses with non-Toric monofocal lenses in cataract patients with astigmatism | Partly clear, but not fully reviewer-ready. |
+| Measurement objectivity | Motion sensors, eye tracking, visual acuity, and IOL measurements are specified; outcome assessors are masked. | Mostly clear from complete SAP review. |
+| Alignment with claim | randomized controlled trial comparing bilateral Toric monofocal intraocular lenses with non-Toric monofocal lenses in cataract patients with astigmatism Primary endpoint: dynamic stability during functional activities measured by centre-of-mass and head movement using motion sensors during obstacle crossing, turning, stair walking, and TUG-related assessments | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Endpoint clinical justification or measurement validity may need more support. The SAP evidence provides some basis for assessing primary endpoint definition where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to primary endpoint definition in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-002 Primary endpoint definition|NCT05773781 BIOSTAT-002 Primary endpoint definition]]

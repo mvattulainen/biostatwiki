@@ -34,17 +34,19 @@ Protocol/GCP non-compliance reporting is described, but no exclusion criteria fo
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Deviation taxonomy | The SAP evidence states: Protocol/GCP non-compliance reporting is described, but no exclusion criteria for per-protocol analyses are defined. | Partly clear; requires explicit SAP specification. |
-| Exclusion rules | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Bias risk | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Blinded review | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Deviation taxonomy | non-compliance reporting is described, but per-protocol exclusion rules are not specified; ITT retains protocol violations | Partly clear, but not fully reviewer-ready. |
+| Exclusion rules | non-compliance reporting is described, but per-protocol exclusion rules are not specified; ITT retains protocol violations | Partly clear, but not fully reviewer-ready. |
+| Bias risk | non-compliance reporting is described, but per-protocol exclusion rules are not specified; ITT retains protocol violations | Partly clear, but not fully reviewer-ready. |
+| Blinded review | non-compliance reporting is described, but per-protocol exclusion rules are not specified; ITT retains protocol violations | Partly clear, but not fully reviewer-ready. |
+| Sensitivity analyses | non-compliance reporting is described, but per-protocol exclusion rules are not specified; ITT retains protocol violations | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Deviation classification and exclusion rules are incomplete. The SAP evidence provides some basis for assessing protocol deviations where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to protocol deviations in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-014 Protocol deviations|NCT03340025 BIOSTAT-014 Protocol deviations]]

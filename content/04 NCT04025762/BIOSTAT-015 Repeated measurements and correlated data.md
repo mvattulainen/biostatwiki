@@ -34,17 +34,19 @@ A linear mixed model adjusts for period, random site effect, and correlated data
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Correlation source | The SAP evidence states: A linear mixed model adjusts for period, random site effect, and correlated data from the same subject. | Mostly clear from current evidence. |
-| Model structure | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Unit of analysis | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Missing repeated measures | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Interpretation of summary | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Correlation source | Crossover/repeated-period data are modeled with subject-level correlation accounted for in a mixed model. | Mostly clear from complete SAP review. |
+| Model structure | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Mostly clear from complete SAP review. |
+| Unit of analysis | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Mostly clear from complete SAP review. |
+| Missing repeated measures | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Mostly clear from complete SAP review. |
+| Interpretation of summary | linear mixed model adjusting for period as fixed effect and site as random effect, with baseline included as a third observation; model accounts for within-subject correlation and reports two-sided p-values and 95% confidence intervals | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing repeated measurements and correlated data where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for DAN06 found evidence relevant to repeated measurements and correlated data in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-015 Repeated measurements and correlated data|NCT05773781 BIOSTAT-015 Repeated measurements and correlated data]]

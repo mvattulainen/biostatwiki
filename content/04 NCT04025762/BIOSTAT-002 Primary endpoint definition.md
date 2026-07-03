@@ -34,17 +34,19 @@ The primary endpoint is time in target range, calculated by pooling CGM readings
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Endpoint concept | The SAP evidence states: The primary endpoint is time in target range, calculated by pooling CGM readings over the treatment period. | Mostly clear from current evidence. |
-| Operational definition | Partly inferable from the same SAP evidence, but not separately decomposed in the current excerpt. | No major gap identified from current evidence. |
-| Clinical meaningfulness | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Measurement objectivity | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
-| Alignment with claim | Not explicitly identified in current SAP evidence excerpt. | No major gap identified from current evidence. |
+| Endpoint concept | time spent in target glucose range 3.9 to 10.0 mmol/L over each 16-week treatment period, calculated from pooled CGM readings | Mostly clear from complete SAP review. |
+| Operational definition | time spent in target glucose range 3.9 to 10.0 mmol/L over each 16-week treatment period, calculated from pooled CGM readings 3-4 week run-in, two 16-week treatment periods, four-week washout, outcome windows up to 112 days or end-of-treatment visit; HbA1c windows ±14 days | Mostly clear from complete SAP review. |
+| Clinical meaningfulness | open-label, multicentre, randomized, two-period crossover study comparing 16-week closed-loop insulin delivery with sensor-augmented pump therapy in older adults with type 1 diabetes | Partly clear, but not fully reviewer-ready. |
+| Measurement objectivity | CGM-derived endpoint is objective and pooled across each treatment period. | Mostly clear from complete SAP review. |
+| Alignment with claim | open-label, multicentre, randomized, two-period crossover study comparing 16-week closed-loop insulin delivery with sensor-augmented pump therapy in older adults with type 1 diabetes Primary endpoint: time spent in target glucose range 3.9 to 10.0 mmol/L over each 16-week treatment period, calculated from pooled CGM readings | Mostly clear from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: None. The SAP evidence provides some basis for assessing primary endpoint definition where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for DAN06 found evidence relevant to primary endpoint definition in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-002 Primary endpoint definition|NCT05773781 BIOSTAT-002 Primary endpoint definition]]

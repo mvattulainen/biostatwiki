@@ -34,17 +34,19 @@ The PI delivers surgery and is unmasked; outcome assessors are masked. Operator 
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Site effects | The SAP evidence states: The PI delivers surgery and is unmasked; outcome assessors are masked. Operator and learning effects are not modeled in the excerpt. | Partly clear; requires explicit SAP specification. |
-| Operator effects | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Modeling approach | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Minimum data per site/operator | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Generalizability impact | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Site effects | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Operator effects | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Modeling approach | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Minimum data per site/operator | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
+| Generalizability impact | surgery occurs at Royal Eye Infirmary and assessments at University of Plymouth/PAHC; outcome assessors are masked; protocol discusses reducing sites/travel burden mixed ANOVA and post-hoc Bonferroni tests are planned for primary and secondary outcomes; visual acuity also uses two-way ANOVA and astigmatism vector analyses | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Site, operator, or learning-curve effects may not be fully assessed. The SAP evidence provides some basis for assessing site and operator effects where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to site and operator effects in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-016 Site and operator effects|NCT05773781 BIOSTAT-016 Site and operator effects]]

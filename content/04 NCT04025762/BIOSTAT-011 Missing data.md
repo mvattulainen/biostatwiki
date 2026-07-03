@@ -34,17 +34,19 @@ Missing data will not be imputed for primary, secondary CGM, and insulin metrics
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Missing-data sources | The SAP evidence states: Missing data will not be imputed for primary, secondary CGM, and insulin metrics. | Partly clear; requires explicit SAP specification. |
-| Primary handling method | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
-| Missingness assumption | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Sensitivity analyses | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
-| Safety missingness | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Missing-data sources | Dropouts, incomplete CGM/HbA1c/insulin/questionnaire data, and insufficient CGM duration are anticipated through analysis inclusion rules. | Partly clear, but not fully reviewer-ready. |
+| Primary handling method | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Potential gap from complete SAP review. |
+| Missingness assumption | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Potential gap from complete SAP review. |
+| Sensitivity analyses | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Potential gap from complete SAP review. |
+| Safety missingness | no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data | Potential gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Missing-data assumptions and sensitivity analyses are incomplete. The SAP evidence provides some basis for assessing missing data where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review found operational missing-data handling for DAN06: no imputation for primary, secondary CGM, insulin, or questionnaire analyses; primary inclusion requires at least 168 hours CGM data in at least one period; dropouts can be included if one period has enough data. The gap quality is driven by the limited explanation of missingness assumptions and robustness testing; information may be present operationally, but it is not a complete sensitivity-analysis strategy for informative missingness.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-011 Missing data|NCT05773781 BIOSTAT-011 Missing data]]

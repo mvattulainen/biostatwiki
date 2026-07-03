@@ -34,17 +34,19 @@ The excerpt states planned sample size but not effect-size, variance, dropout, o
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Event or success rates | The SAP evidence states: The excerpt states planned sample size but not effect-size, variance, dropout, or power assumptions. | Major gap in current evidence. |
-| Variability assumptions | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Effect size | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Dropout or missingness | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Assumption sensitivity | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Event or success rates | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Variability assumptions | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Effect size | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Dropout or missingness | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
+| Assumption sensitivity | 140 participants, 70 per group, based on G*Power mixed ANOVA, medium effect size 0.25, 85% power, alpha 0.05, and 20% dropout inflation Assumption-sensitivity analysis is not specified. | Partly clear, but not fully reviewer-ready. |
 
 ### Gap statement
 
-The main gap quality judgment is: Power assumptions may lack cited evidence or sensitivity ranges. The SAP evidence provides some basis for assessing power assumptions where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for Toric IOL protocol found evidence relevant to power assumptions in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-008 Power assumptions|NCT05773781 BIOSTAT-008 Power assumptions]]

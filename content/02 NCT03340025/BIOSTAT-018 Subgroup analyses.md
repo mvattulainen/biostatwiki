@@ -34,17 +34,19 @@ No subgroup analyses are specified.
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Prespecified subgroups | The SAP evidence states: No subgroup analyses are specified. | Major gap in current evidence. |
-| Power and precision | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Multiplicity handling | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interaction analysis | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interpretation limits | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Prespecified subgroups | no subgroup analyses are specified | Major gap from complete SAP review. |
+| Power and precision | no subgroup analyses are specified | Major gap from complete SAP review. |
+| Multiplicity handling | no subgroup analyses are specified | Major gap from complete SAP review. |
+| Interaction analysis | no subgroup analyses are specified | Major gap from complete SAP review. |
+| Interpretation limits | no subgroup analyses are specified | Major gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Subgroup analyses are absent or must remain exploratory. The SAP evidence provides some basis for assessing subgroup analyses where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for NPWT donor-site pilot found evidence relevant to subgroup analyses in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[01 NCT05773781/BIOSTAT-018 Subgroup analyses|NCT05773781 BIOSTAT-018 Subgroup analyses]]

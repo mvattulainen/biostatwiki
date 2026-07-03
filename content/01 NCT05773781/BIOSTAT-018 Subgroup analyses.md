@@ -34,17 +34,19 @@ No subgroup analyses are specified in the statistical analysis section.
 
 ## Attribute assessment
 
+Base this section on the complete SAP, not only the `Short SAP Evidence` section or the quoted SAP evidence in the claim block.
+
 | Question attribute | Evidence found | Gap quality |
 | --- | --- | --- |
-| Prespecified subgroups | The SAP evidence states: No subgroup analyses are specified in the statistical analysis section. | Major gap in current evidence. |
-| Power and precision | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Multiplicity handling | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interaction analysis | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
-| Interpretation limits | Not explicitly identified in current SAP evidence excerpt. | Major gap in current evidence. |
+| Prespecified subgroups | stratification by lesion site and surgical technique is used, but subgroup analyses are not specified | Major gap from complete SAP review. |
+| Power and precision | stratification by lesion site and surgical technique is used, but subgroup analyses are not specified | Major gap from complete SAP review. |
+| Multiplicity handling | stratification by lesion site and surgical technique is used, but subgroup analyses are not specified | Major gap from complete SAP review. |
+| Interaction analysis | stratification by lesion site and surgical technique is used, but subgroup analyses are not specified | Major gap from complete SAP review. |
+| Interpretation limits | stratification by lesion site and surgical technique is used, but subgroup analyses are not specified | Major gap from complete SAP review. |
 
 ### Gap statement
 
-The main gap quality judgment is: Subgroup analyses are absent or must remain exploratory. The SAP evidence provides some basis for assessing subgroup analyses where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
+Complete SAP review for PuraBond PROOF found evidence relevant to subgroup analyses in the protocol/SAP, as summarized in the attribute table. The gap quality judgment separates explicit SAP content from information that is only operational, inferable from surrounding sections, ambiguous for reviewer interpretation, or missing as a prespecified statistical rule.
 
 ## Same Question in Other SAP Evaluations
 - [[02 NCT03340025/BIOSTAT-018 Subgroup analyses|NCT03340025 BIOSTAT-018 Subgroup analyses]]
