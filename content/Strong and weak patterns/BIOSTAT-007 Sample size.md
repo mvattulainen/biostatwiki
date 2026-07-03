@@ -5,7 +5,7 @@
 > The number of subjects in a clinical trial should always be large enough to provide a reliable answer to the questions addressed. The method by which sample size is calculated should be given with estimates and the basis of those estimates.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 878-899.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

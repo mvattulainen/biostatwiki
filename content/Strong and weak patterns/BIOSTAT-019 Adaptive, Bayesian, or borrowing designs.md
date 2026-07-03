@@ -5,7 +5,7 @@
 > An adaptive design allows prospectively planned modifications based on interim analysis of accumulating data. The focus is on planning, conduct, analysis, and interpretation so trials produce reliable and interpretable information.
 
 Source: ich-e20-guideline-adaptive-designs-clinical-trials-step-2b_en.pdf, lines 107-126.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

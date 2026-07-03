@@ -5,7 +5,7 @@
 > There should be sufficient evidence that the primary variable can provide a valid and reliable measure of some clinically relevant and important treatment benefit. To avoid multiplicity concerns arising from post hoc definitions, it is critical to specify the precise definition of the primary variable.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 300-323.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

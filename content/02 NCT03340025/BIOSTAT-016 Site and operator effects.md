@@ -12,6 +12,8 @@ status: Not applicable
 
 Could outcomes vary by site, investigator, surgeon, operator, software reader, or learning curve, and how will this be modeled or assessed?
 
+Question reference: [[Questions#BIOSTAT-016 Site and operator effects]]
+
 ## Short SAP Evidence
 
 The study is single-center; no site or operator effect modeling is relevant beyond local conduct.
@@ -20,23 +22,31 @@ The study is single-center; no site or operator effect modeling is relevant beyo
 
 ### Claim BIOSTAT-016-1: Single-Use Negative Pressure Wound Therapy for Free Flap Donor Sites is not applicable for site and operator effects because site, operator, or learning-curve effects may not be fully assessed
 
-**Trusted source evidence:** ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 720-759. Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+**Trusted source evidence:** ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 720-759. Semantic confidence: High.
 
 > Centre differences and treatment-by-centre heterogeneity can affect interpretation and generalisability. Mixed models may be used to explore heterogeneity when the number of sites is large.
 
-**SAP evidence:** Prot_SAP_000.pdf, lines 85-90 and 198-204. Confidence score: 80/100 (indexed SAP text fallback; rerank unavailable in this runtime).
+**SAP evidence:** Prot_SAP_000.pdf, lines 85-90 and 198-204. Semantic confidence: High.
 
 > The study is single-center; no site or operator effect modeling is relevant beyond local conduct.
 
 **Status:** Not applicable
 
-**Gap:** Site, operator, or learning-curve effects may not be fully assessed.
+## Attribute assessment
 
-**Alternative interpretation:** The apparent gap may reflect the extracted SAP wording rather than the full analysis intent; related protocol sections, shells, or operational definitions could partially address this issue even if the SAP does not state it in reviewer-ready terms.
+| Question attribute | Evidence found | Gap quality |
+| --- | --- | --- |
+| Site effects | The SAP evidence states: The study is single-center; no site or operator effect modeling is relevant beyond local conduct. | Not applicable to this SAP unless the design context changes. |
+| Operator effects | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| Modeling approach | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| Minimum data per site/operator | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
+| Generalizability impact | Not explicitly identified in current SAP evidence excerpt. | Not applicable to this SAP unless the design context changes. |
 
+### Gap statement
+
+This question appears not applicable to this SAP based on the current evidence. The attribute table records the key elements that would need to be present if the design or claim later made site and operator effects relevant.
 
 ## Same Question in Other SAP Evaluations
-
 - [[01 NCT05773781/BIOSTAT-016 Site and operator effects|NCT05773781 BIOSTAT-016 Site and operator effects]]
 - [[03 NO-NCT-IRAS286913/BIOSTAT-016 Site and operator effects|NO-NCT-IRAS286913 BIOSTAT-016 Site and operator effects]]
 - [[04 NCT04025762/BIOSTAT-016 Site and operator effects|NCT04025762 BIOSTAT-016 Site and operator effects]]

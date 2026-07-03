@@ -8,4 +8,4 @@
 | Diagnostic accuracy | Reference standard, indeterminate results, paired data | Sensitivity/specificity, CI method, reader effects, missing/invalid tests | Not present in current four SAPs |
 | Post-market observational | Confounding, data completeness, generalizability | Descriptive plan, bias assessment, missingness, subgroup interpretation | Not present in current four SAPs |
 
-Trusted-source anchor: ICH E9 identifies parallel-group, crossover, and other design configurations as having different assumptions and interpretation risks. Source: `ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf`, lines 586-638`. Confidence score: 80/100.
+Trusted-source anchor: ICH E9 identifies parallel-group, crossover, and other design configurations as having different assumptions and interpretation risks. Source: `ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf`, lines 586-638`. Semantic confidence: High.

@@ -5,7 +5,7 @@
 > A trial sized on the basis of safety questions or important secondary objectives may need larger numbers of subjects than a trial sized on the basis of the primary efficacy question.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 878-884.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

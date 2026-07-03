@@ -5,7 +5,7 @@
 > When there is more than one primary or secondary endpoint, it is important to ensure that multiple hypotheses do not inflate the overall Type I error rate. The analysis plan should describe the testing procedure with proper control.
 
 Source: MultipleEndpoints_FinalGuidance.pdf, lines 262-310.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

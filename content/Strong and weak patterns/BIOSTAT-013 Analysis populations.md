@@ -5,7 +5,7 @@
 > Analysis sets should be considered in the estimand framework because excluding planned measurements or subjects can mean randomisation is not fully preserved.
 
 Source: ich-e9-r1-addendum-estimands-and-sensitivity-analysis-clinical-trials-guideline-statistical-principles-clinical-trials-step-5_en.pdf, lines 131-140.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

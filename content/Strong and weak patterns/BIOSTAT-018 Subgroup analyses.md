@@ -5,7 +5,7 @@
 > Multiple analyses of subgroups can inflate Type I error if used to conclude benefit. Definitive conclusions should be prespecified and included in the multiple-testing strategy.
 
 Source: MultipleEndpoints_FinalGuidance.pdf, lines 290-327.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

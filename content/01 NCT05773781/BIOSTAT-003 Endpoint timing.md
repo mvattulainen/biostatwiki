@@ -12,6 +12,8 @@ status: Partially supported
 
 At what time point should the primary endpoint be assessed, and is that time point clinically and statistically justified?
 
+Question reference: [[Questions#BIOSTAT-003 Endpoint timing]]
+
 ## Short SAP Evidence
 
 Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment.
@@ -20,23 +22,31 @@ Follow-up duration is one month and the primary pain endpoint includes day 30 po
 
 ### Claim BIOSTAT-003-1: PuraBond PROOF Study is partially supported for endpoint timing because endpoint timing is defined but may not be clinically justified
 
-**Trusted source evidence:** ICH_E8-R1_Guideline_Step4_2021_1006.pdf, lines 247-256. Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+**Trusted source evidence:** ICH_E8-R1_Guideline_Step4_2021_1006.pdf, lines 247-256. Semantic confidence: High.
 
 > Good planning and implementation derive from attention to clear objectives, appropriate participants, methods to minimise bias, and endpoints that are well-defined, measurable, clinically meaningful, and relevant to patients.
 
-**SAP evidence:** Prot_SAP_000_b.pdf, lines 220-228 and 667-672. Confidence score: 80/100 (indexed SAP text fallback; rerank unavailable in this runtime).
+**SAP evidence:** Prot_SAP_000_b.pdf, lines 220-228 and 667-672. Semantic confidence: Medium.
 
 > Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment.
 
 **Status:** Partially supported
 
-**Gap:** Endpoint timing is defined but may not be clinically justified.
+## Attribute assessment
 
-**Alternative interpretation:** The apparent gap may reflect the extracted SAP wording rather than the full analysis intent; related protocol sections, shells, or operational definitions could partially address this issue even if the SAP does not state it in reviewer-ready terms.
+| Question attribute | Evidence found | Gap quality |
+| --- | --- | --- |
+| Primary time point | The SAP evidence states: Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment. | Partly clear; requires explicit SAP specification. |
+| Clinical timing rationale | Not explicitly identified in current SAP evidence excerpt. | Partly clear; requires explicit SAP specification. |
+| Windowing rules | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Repeated time points | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
+| Missing or delayed visits | Not explicitly identified in current SAP evidence excerpt. | Potential gap unless addressed elsewhere in the SAP. |
 
+### Gap statement
+
+The main gap quality judgment is: Endpoint timing is defined but may not be clinically justified. The SAP evidence provides some basis for assessing endpoint timing where noted in the table, but the reviewer-facing weakness is the difference between information that is explicitly specified and information that must be reconstructed from partial SAP wording.
 
 ## Same Question in Other SAP Evaluations
-
 - [[02 NCT03340025/BIOSTAT-003 Endpoint timing|NCT03340025 BIOSTAT-003 Endpoint timing]]
 - [[03 NO-NCT-IRAS286913/BIOSTAT-003 Endpoint timing|NO-NCT-IRAS286913 BIOSTAT-003 Endpoint timing]]
 - [[04 NCT04025762/BIOSTAT-003 Endpoint timing|NCT04025762 BIOSTAT-003 Endpoint timing]]

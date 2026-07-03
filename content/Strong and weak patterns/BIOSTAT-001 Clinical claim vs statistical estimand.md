@@ -5,7 +5,7 @@
 > Precision in describing a treatment effect of interest is facilitated by constructing the estimand corresponding to a clinical question of interest. The statistical analysis of clinical trial data should be aligned to the estimand.
 
 Source: ich-e9-r1-addendum-estimands-and-sensitivity-analysis-clinical-trials-guideline-statistical-principles-clinical-trials-step-5_en.pdf, lines 71-90.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

@@ -5,7 +5,7 @@
 > Active comparators should be chosen with care, with efficacy established and quantified in well designed trials. Equivalence margins should be specified and justified clinically.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 803-823.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

@@ -5,7 +5,7 @@
 > Multicentre trials can provide a better basis for generalisation by recruiting from a wider population and broader clinical settings, but implementation should be clear and similar at all centres.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 668-699.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

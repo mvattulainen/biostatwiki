@@ -5,7 +5,7 @@
 > Good planning and implementation derive from attention to clear objectives, appropriate participants, methods to minimise bias, and endpoints that are well-defined, measurable, clinically meaningful, and relevant to patients.
 
 Source: ICH_E8-R1_Guideline_Step4_2021_1006.pdf, lines 247-256.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

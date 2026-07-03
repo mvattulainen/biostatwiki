@@ -5,7 +5,7 @@
 > The basis of sample-size estimates should be given. It is important to investigate sensitivity of the sample size estimate to deviations from assumptions, and assumptions should normally be based on published data or earlier trials.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 894-910.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

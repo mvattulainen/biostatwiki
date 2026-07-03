@@ -1,25 +1,28 @@
 
-Welcome to statistical analysis plan SAP review site.
+Welcome to statistical analysis plan SAP (medical device clinical investigations) assessment demo site.
 
-The purpose of this site is to assess four public medical device clinical investigation SAPs against 20 [[Questions]] and [[Trusted sources]] as an example of automated SAP assessment with RAG (GNO semantic search) and LLM (ChatGPT 5.5) technologies. Please see the [[skill-example]]. 
+The purpose of this site is to demo the use of RAG retrieval augmented generation (GNO semantic search) and LLM large language model (ChatGPT 5.5) technologies in assessment of SAPs. Special effort is made to show traceability and transparency in assessment.
 
-Disclaimer: Automated SAP assessment presented here does not replace the use of professional statistical services but may help in finding and correcting some general SAP issues.
+Automated SAP assessment presented does NOT replace the use of professional statistical services but does provide the benefits of:
+- comparison of SAP to other public SAPs with similar scope
+- more engagement with the SAP as it is assessed systematically 
+- documented review rounds for every SAP version
 
----
+Assessment consists of twenty [[Questions]] each broken down to [[Question attributes]]. 
+There are [[Trusted sources]]. 
 
-You can see the assessment outcome folder marked with NCT-numbers from the left menu. In addition to assessments there are also general patters such as:
+As an example there four public SAPs assessed. The assessment outcomes can be accessed from the left menu NCT-folders. See also statement on [[Fair use]]. 
+
 - [[Cross-SAP statistical comparison matrix]]
 - [[Design patterns]]
 - [[Estimand reconstruction table]]
-- [[Method index]]
 - [[Reviewer question bank]]
 - [[Statistical issues catalog]]
 - [[Lessons learned]]
 
-Statement on [[Fair use]] regarding use of the sources.
-
 Maintainer: Markus Vattulainen
-Date: 2.7.2026
+Skill used to create the site: [[skill-example]]
+last updated: 3.7.2026
 
 
 

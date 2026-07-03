@@ -5,7 +5,7 @@
 > Just ignoring missing data is not an acceptable option. The reason for missing data and handling of missing data represent critical factors, and robustness should be investigated through appropriate sensitivity analyses.
 
 Source: guideline-missing-data-confirmatory-clinical-trials_en.pdf, lines 57-96.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

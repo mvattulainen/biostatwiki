@@ -5,7 +5,7 @@
 > Centre differences and treatment-by-centre heterogeneity can affect interpretation and generalisability. Mixed models may be used to explore heterogeneity when the number of sites is large.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 720-759.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

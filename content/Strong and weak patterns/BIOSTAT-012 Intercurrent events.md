@@ -5,7 +5,7 @@
 > The addendum distinguishes discontinuation of randomised treatment from study withdrawal. The former is an intercurrent event to be addressed in the estimand; the latter gives rise to missing data.
 
 Source: ich-e9-r1-addendum-estimands-and-sensitivity-analysis-clinical-trials-guideline-statistical-principles-clinical-trials-step-5_en.pdf, lines 109-126.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 

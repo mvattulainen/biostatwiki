@@ -5,7 +5,7 @@
 > The appropriateness of placebo control versus active control should be considered on a trial by trial basis. Active comparators should be chosen with care and should have relevant design features.
 
 Source: ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 762-808.
-Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+Semantic confidence: High.
 
 ## Strong patterns
 
