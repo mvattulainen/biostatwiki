@@ -1,0 +1,42 @@
+---
+study_name: PuraBond PROOF Study
+nct_number: NCT05773781
+source_sap: Prot_SAP_000_b.pdf
+question_id: BIOSTAT-003
+status: Partially supported
+---
+
+# BIOSTAT-003 Endpoint timing
+
+## Question
+
+At what time point should the primary endpoint be assessed, and is that time point clinically and statistically justified?
+
+## Short SAP Evidence
+
+Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment.
+
+## Statistical Claim-to-Evidence
+
+### Claim BIOSTAT-003-1: PuraBond PROOF Study is partially supported for endpoint timing because endpoint timing is defined but may not be clinically justified
+
+**Trusted source evidence:** ICH_E8-R1_Guideline_Step4_2021_1006.pdf, lines 247-256. Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+
+> Good planning and implementation derive from attention to clear objectives, appropriate participants, methods to minimise bias, and endpoints that are well-defined, measurable, clinically meaningful, and relevant to patients.
+
+**SAP evidence:** Prot_SAP_000_b.pdf, lines 220-228 and 667-672. Confidence score: 80/100 (indexed SAP text fallback; rerank unavailable in this runtime).
+
+> Follow-up duration is one month and the primary pain endpoint includes day 30 post-randomisation/postoperative assessment.
+
+**Status:** Partially supported
+
+**Gap:** Endpoint timing is defined but may not be clinically justified.
+
+**Alternative interpretation:** The apparent gap may reflect the extracted SAP wording rather than the full analysis intent; related protocol sections, shells, or operational definitions could partially address this issue even if the SAP does not state it in reviewer-ready terms.
+
+
+## Same Question in Other SAP Evaluations
+
+- [[02 NCT03340025/BIOSTAT-003 Endpoint timing|NCT03340025 BIOSTAT-003 Endpoint timing]]
+- [[03 NO-NCT-IRAS286913/BIOSTAT-003 Endpoint timing|NO-NCT-IRAS286913 BIOSTAT-003 Endpoint timing]]
+- [[04 NCT04025762/BIOSTAT-003 Endpoint timing|NCT04025762 BIOSTAT-003 Endpoint timing]]

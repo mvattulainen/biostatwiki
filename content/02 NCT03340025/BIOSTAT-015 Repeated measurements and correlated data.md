@@ -1,0 +1,42 @@
+---
+study_name: Single-Use Negative Pressure Wound Therapy for Free Flap Donor Sites
+nct_number: NCT03340025
+source_sap: Prot_SAP_000.pdf
+question_id: BIOSTAT-015
+status: Missing
+---
+
+# BIOSTAT-015 Repeated measurements and correlated data
+
+## Question
+
+Does the analysis account for multiple lesions, multiple implants, bilateral organs, repeated visits, clustered sites, or repeated measurements within the same subject?
+
+## Short SAP Evidence
+
+Repeated wound photographs are collected, but the statistical model for repeated measurements is not described.
+
+## Statistical Claim-to-Evidence
+
+### Claim BIOSTAT-015-1: Single-Use Negative Pressure Wound Therapy for Free Flap Donor Sites is missing for repeated measurements and correlated data because correlation/repeated-measure implementation details may be incomplete
+
+**Trusted source evidence:** ich-e-9-statistical-principles-clinical-trials-step-5_en.pdf, lines 593-607. Confidence score: 80/100 (BM25/get fallback; rerank unavailable in this runtime).
+
+> Repeated measurements, interactions, protocol violations, dropouts, and withdrawals can complicate analysis and interpretation. In crossover designs each subject is randomised to a treatment sequence and acts as his own control.
+
+**SAP evidence:** Prot_SAP_000.pdf, lines 117-140 and 386-388. Confidence score: 80/100 (indexed SAP text fallback; rerank unavailable in this runtime).
+
+> Repeated wound photographs are collected, but the statistical model for repeated measurements is not described.
+
+**Status:** Missing
+
+**Gap:** Correlation/repeated-measure implementation details may be incomplete.
+
+**Alternative interpretation:** The apparent gap may reflect the extracted SAP wording rather than the full analysis intent; related protocol sections, shells, or operational definitions could partially address this issue even if the SAP does not state it in reviewer-ready terms.
+
+
+## Same Question in Other SAP Evaluations
+
+- [[01 NCT05773781/BIOSTAT-015 Repeated measurements and correlated data|NCT05773781 BIOSTAT-015 Repeated measurements and correlated data]]
+- [[03 NO-NCT-IRAS286913/BIOSTAT-015 Repeated measurements and correlated data|NO-NCT-IRAS286913 BIOSTAT-015 Repeated measurements and correlated data]]
+- [[04 NCT04025762/BIOSTAT-015 Repeated measurements and correlated data|NCT04025762 BIOSTAT-015 Repeated measurements and correlated data]]
