@@ -1,15 +1,17 @@
 
-Welcome to statistical analysis plan SAP (medical device clinical investigations) assessment demo site.
+Welcome to statistical analysis plan (SAP) assessment for medical device clinical investigations demo site.
 
-The purpose of this site is to demo the use of RAG retrieval augmented generation (GNO semantic search) and LLM large language model (ChatGPT 5.5) technologies in assessment of SAPs. Special effort is made to show traceability and transparency in assessment.
+This site shows the use of RAG retrieval augmented generation (GNO semantic search) and LLM large language model (ChatGPT 5.5) reasoning technologies in assessment of SAPs with emphasis on:
+- traceability -> references to sources
+- transparency -> assessment is build in steps
 
-Automated SAP assessment presented does NOT replace the use of professional statistical services but does provide the benefits of:
-- comparison of SAP to other public SAPs with similar scope
-- more engagement with the SAP as it is assessed systematically 
-- documented review rounds for every SAP version
+Automated SAP assessment presented does NOT remove the need for professional statistical competence but does provide the benefits of:
+- comparing SAP to several similar study SAPs 
+- guided systematic assessment of SAP 
+- automated documented review for each SAP version
+See also [[Risks of automated SAP assessment]] such as hallucination.
 
-Assessment consists of twenty [[Questions]] each broken down to [[Question attributes]]. 
-There are [[Trusted sources]]. 
+SAP assessment consists of twenty fundamental [[Questions]] each broken down to [[Question attributes]]. There are [[Trusted sources]] (work in progress).
 
 As an example there four public SAPs assessed. The assessment outcomes can be accessed from the left menu NCT-folders. See also statement on [[Fair use]]. 
 
